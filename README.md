@@ -30,22 +30,25 @@
 - Experienced with libraries like Pandas, NumPy, scikit-learn, Matplotlib.
 - Enthusiastic about Natural Language Processing and Large Language Models.
 - Exploring LangChain framework to build advanced AI applications.
-- Strong foundation in data visualization using Power BI.
+- Strong foundation in data visualization using Power BI and Microsoft Excel.
 - Always learning and eager to contribute to open source projects.
 
 ---
 
-### 🛠️ Skills & Tools
+### Skills & Tools
 
 <table>
   <tr>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/><br>Python</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" alt="SQL"/><br>SQL</td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" alt="SQL"/><br>SQL</td> 
+    <td align="center"><img src="https://onleitechnologies.com/wp-content/uploads/2021/12/Machine-Learning-1000x1000-1-1.jpg" width="50" alt="Machine Learning"/><br>Mchine Learning</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" alt="Pandas"/><br>Pandas</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" alt="NumPy"/><br>NumPy</td>
     <td align="center"><img src="https://avatars.githubusercontent.com/u/17349883?s=280&v=4" width="50" alt="scikit-learn"/><br>scikit-learn</td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="50" alt="Matplotlib"/><br>Matplotlib</td>
     <td align="center"><img src="https://tse3.mm.bing.net/th?id=OIP.Oxo-u9GMK3zbEM5h-FiVnQHaEK&pid=Api&P=0&h=180" width="50" alt="Power BI"/><br>Power BI</td>
+    <td align="center"><img src="https://th.bing.com/th/id/OIP.wIfanQtKi0iBtmnctZ6BJwAAAA?rs=1&pid=ImgDetMain" width="50" alt="Microsoft Excel"/><br>Microsoft Excel</td>
+  
   </tr>
   <tr>
     <td align="center"><img src="https://img.freepik.com/premium-vector/nlp-natural-language-processing-cognitive-computing-technology-concept-virtual-screen-robotic-hand-touching-digital-interface_127544-332.jpg?w=2000" width="50" alt="NLP"/><br>NLP</td>
@@ -58,7 +61,7 @@
 
 ---
 
-### 🚀 Projects & Highlights
+### Projects & Highlights
 
 - AI for Marketing Generator using GPT-4, Gemini APIs with Streamlit UI
 - Bitcoin Price Prediction using Machine Learning Models
@@ -67,7 +70,7 @@
 
 ---
 
-### 📫 Connect with Me
+### Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3B2WMNgbbeS560CinvEI3Fdw%3D%3D" target="_blank">
@@ -81,7 +84,7 @@
 
 ---
 
-### ⚡ Fun Fact
+### Fun Fact
 
 > “ I use Python more often than I use a pen.
 

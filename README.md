@@ -66,6 +66,7 @@
 - AI for Marketing Generator using GPT-4, Gemini APIs with Streamlit UI
 - Bitcoin Price Prediction using Machine Learning Models
 - House Price Prediction and Analysis
+- Pizza sales analysis with Power BI Dashboards
 - T20 Cricket Match Data Analysis with Power BI Dashboards
 
 ---

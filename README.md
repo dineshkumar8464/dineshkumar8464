@@ -3,7 +3,7 @@
 -->
 
 <h1 align="center">
-  👋 Hello, I'm Dinesh Kumar Manimela
+  Hello, I'm Dinesh Kumar Manimela
 </h1>
 
 <p align="center">
@@ -68,6 +68,7 @@
 - Diabetes prediction using Machine Learning Models
 - House Price Prediction and Analysis using Machine Learning Models
 - Pizza sales analysis with Power BI Dashboards
+- Blinkit sales analysis using Power BI 
 - T20 Cricket Match Data Analysis with Power BI Dashboards
 
 ---
